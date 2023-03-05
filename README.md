@@ -1,1 +1,1 @@
-# PZPP_1
+# PZPP - Projekt zespołowy 
